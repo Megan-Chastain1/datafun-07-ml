@@ -5,4 +5,3 @@ pyarrow
 matplotlib as mp
 seaborn
 scipy
-scikit-learn

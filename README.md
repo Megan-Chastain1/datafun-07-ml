@@ -60,3 +60,11 @@ Creating a GitHub account and repository, and setting up a local project to sync
    * From here you can input commands like:
 
    from ___ import ____
+  
+  ## 6\. Linear Regressions
+    * Linear Regressions are used to find trends in data and can find predictive values.
+  
+    y=mx+b is the equation used to calculate linear regressions by finding the slope line. To predict a value(y, an dependent variable), we find where x(an independent variable, like time) intercepts the slope line(m).  
+    * This can be done using the mathematical equation or by using statistical models, like SciPy and Sklearn.
+    * Jupyter Notebook is a useful too to organize linear regression data
+    * Matplotlip and Seaborn have modules to visualize the data as scatterplots or other graphs with a trend line able to be added.
