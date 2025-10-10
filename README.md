@@ -1,4 +1,4 @@
-# datafun-07-ml
+git# datafun-07-ml
 
 Creating a GitHub account and repository, and setting up a local project to sync with it, is a standard workflow for developers. Here's a step-by-step guide based on your request.
 
@@ -45,10 +45,18 @@ Creating a GitHub account and repository, and setting up a local project to sync
 
 ## 4\. Create a Virtual Environment
 
-  *Run the following command to create a virtual environment:
+  * Run the following command to create a virtual environment:
     ```
     py -m venv .venv
     ```
   * This command creates a new folder named **`.venv`** in your project directory. This folder contains a local, isolated Python environment where you can install packages for this specific project without affecting your system's global Python installation.
 
 -----
+## 5\. Working with iPython
+  * To open the iPython command prompt, type 'iPython' into the terminal. The following is what will appear:
+  
+   In [1]:
+
+   * From here you can input commands like:
+
+   from ___ import ____

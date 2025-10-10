@@ -1,7 +1,8 @@
 jupyterlab
-numpy
-pandas
+numpy as nm
+pandas as pd
 pyarrow
-matplotlib
+matplotlib as mp
 seaborn
 scipy
+scikit-learn
